@@ -6,7 +6,7 @@ Census released 1-Year ACS Data for 2021 on September 15, 2022, resuming their o
 
 ##Summary Chart
 
-!(chart_summary_1.png)
+![Screenshot](chart_summary_1.png)
 
 ## Contact
 Please contact camille.kaplan26@gmail.com with questions. 
